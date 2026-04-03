@@ -96,6 +96,28 @@ Use a **Problem → Solution → Impact** structure. Two templates below.
 - [ ] Test mic audio level
 - [ ] Do one dry run before recording
 
+---
+
+## Research Prompts
+
+Ready-to-use prompts for cross-AI research (paste into Gemini, Perplexity, Claude, ChatGPT):
+
+| # | Prompt | Focus Area |
+|---|--------|------------|
+| 01 | [AI Video Automation](prompts/01-ai-video-automation.md) | AI tools for automating video pipeline — TTS, auto-editing, agentic workflows |
+| 02 | [Storytelling Frameworks](prompts/02-storytelling-frameworks.md) | Narrative structures for technical demos — frameworks, pacing, script templates |
+| 03 | [Content Creation Strategy](prompts/03-content-creation-strategy.md) | Repurposing, platform strategy, sustainable content workflow for devs |
+| 04 | [Personal Branding](prompts/04-personal-branding-devs.md) | Developer brand building — archetypes, portfolio, hackathon presence |
+| 05 | [Build a Video Tool](prompts/05-build-video-tool.md) | Architecture for a custom CLI/app that automates demo video creation |
+| 06 | [AI Agent Video Workflow](prompts/06-ai-agent-video-workflow.md) | Multi-agent system design for video production — frameworks, feasibility |
+
+### How to Use
+
+1. Copy the full content of a prompt file
+2. Paste into your AI tool of choice
+3. Compare responses across Gemini, Perplexity, Claude, ChatGPT
+4. Collect findings back into this repo under `research/`
+
 ## License
 
 MIT
